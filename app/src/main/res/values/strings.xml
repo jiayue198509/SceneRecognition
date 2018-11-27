@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">场景检测</string>
+    <string name="detect_fail">识别失败!</string>
+</resources>
